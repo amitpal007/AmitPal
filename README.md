@@ -1,2 +1,3 @@
-This is my first Git repo
-Author Amit Pal
+This is my first Git repository.
+<br>
+Author- Amit Pal
